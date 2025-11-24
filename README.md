@@ -21,7 +21,7 @@ I plan to execute these steps over 5 days to complete my project.
   - Initialize the repository and environment.
   - Define the `GraphState` to hold company data, news, and the final report.
 
-- [TODO] **Day 2: Tool Implementation**
+- [DONE] **Day 2: Tool Implementation**
   - Implement `get_stock_prices`: A tool to fetch current market data.
   - Implement `search_market_news`: A tool to retrieve relevant financial news.
 
