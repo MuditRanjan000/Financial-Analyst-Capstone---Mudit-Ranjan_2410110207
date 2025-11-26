@@ -29,7 +29,7 @@ I plan to execute these steps over 5 days to complete my project.
   - Build the `DataCollector` node to execute tools.
   - Build the `FinancialAnalyst` node to process data and generate insights.
 
-- [TODO] **Day 4: Graph Construction & Flow**
+- [DONE] **Day 4: Graph Construction & Flow**
   - Define the workflow edges (Start -> DataCollector -> Analyst -> End).
   - Compile and visualize the graph.
 
