@@ -42,3 +42,4 @@ I successfully built an autonomous financial analysis agent. The project demonst
 
 ## demo
 ![alt text](image.png) 
+![alt text](image-1.png)
