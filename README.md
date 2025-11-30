@@ -40,6 +40,9 @@ I plan to execute these steps over 5 days to complete my project.
 ## Conclusion
 I successfully built an autonomous financial analysis agent. The project demonstrates the power of LangGraph for orchestrating complex workflows (Data -> Analysis). By integrating custom tools with `yfinance` and `Tavily`, the agent accesses real-time data. Finally, using LangChain's `with_structured_output`, I ensured the agent produces reliable, machine-readable investment memos, satisfying all course requirements.
 
+## 📺 Project Demo Video
+**[Click here to watch the demo video](https://youtu.be/npM7rvPWdlU)**
+
 ## demo
 ![alt text](image.png) 
 ![alt text](image-1.png)
